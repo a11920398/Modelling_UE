@@ -1,7 +1,7 @@
 # Modelling_UE
 
-### General information: 
-- MDA_3UE_AUER.ipynb contains the code for the plots
+### General information
+- MDA_3UE_AUER.ipynb contains the code of the plots
 - MDA_3UE_AUER.pdf is the pdf of the notebook
 ### Description of the plots
 ### 2) Map plots
