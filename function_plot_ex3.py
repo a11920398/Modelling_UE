@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+import cartopy.crs as ccrs
+
 def EXTRA_plot_models_fct(model,model_name):
     '''Function to plot four (and only four!) climate models in a subplot'''
     fig=plt.figure(figsize=(18,9))
